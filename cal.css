@@ -1,0 +1,43 @@
+.bg
+{
+    background-color:black;
+    height:90vh;
+    text-align: center;
+    color:black;
+
+}
+#result
+{
+    background-color:rgb(191, 191, 220);
+    height:16%;
+    text-align: center;
+    width:100%;
+    color:black;
+}
+.key1
+{
+    height:90px;
+    width:90px;
+    background-color:yellow;
+    border-radius:50%;
+    text-align: center;
+    margin-right:10px;
+    font-size:2em;
+}
+.key1:hover{
+    background-color:grey;
+}
+.key2
+{
+    height:90px;
+    width:90px;
+    background-color:white;
+    border-radius:50%;
+    text-align: center;
+    margin-right:10px;
+    font-size:2em;
+    
+}
+.key2:hover{
+    background-color:grey;
+}
